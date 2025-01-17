@@ -64,8 +64,8 @@
 
 
 ---
-
-<h3 align="center">🚀 Future Skills and Interests:</h3>
+<br></br>
+<h3 align="left">🚀 Future Skills and Interests:</h3>
 <ul>
     <li>🌟 **Cyber Security**: Exploring advanced topics like penetration testing, cryptography, and threat analysis.</li>
     <li>🌟 **Blockchain Development**: Learning to create decentralized applications (dApps) and smart contracts.</li>
