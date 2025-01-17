@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Rocky Dewan</h1>
-<h3 align="center">A passionate Software Engineer and aspiring Cyber Security Specialist 🚀</h3>
+<h1 align="center">👋 Hi, I'm Rocky Dewan</h1>
+<h3 align="center">A Passionate Software Engineer | Aspiring Cyber Security Specialist | Tech Enthusiast 🚀</h3>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div>
-  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Coding GIF">
-  <ul>
-    <li>🌱 I’m currently learning **Machine Learning, Deep Learning, and Web Application Development.**</li>
-    <li>📫 How to reach me: **dewanrocky250@gmail.com**</li>
-  </ul>
-</div>
+</p>
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
+### 👨‍💻 **About Me**
+
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="250px" align="right" alt="Coding GIF">
+
+- 🌱 **Currently Exploring:** Machine Learning, Deep Learning, and Web Application Development  
+- 📫 **Reach Me At:** dewanrocky250@gmail.com  
+- 💡 **Fun Fact:** I believe in lifelong learning and am fascinated by the intersection of technology and human behavior.  
+
+---
+
+### 🌐 **Connect With Me**
 <p align="center">
     <a href="https://twitter.com/Rocky_Dewan" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -33,7 +35,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+### 🛠️ **Languages and Tools**
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -54,7 +56,7 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats:</h3>
+### 📊 **GitHub Stats**
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
@@ -63,15 +65,20 @@
 
 ---
 
-<h3 align="left">🚀 Future Skills and Interests:</h3>
-<ul>
-    <li>🌟 **Cyber Security**: Exploring advanced topics like penetration testing, cryptography, and threat analysis.</li>
-    <li>🌟 **Blockchain Development**: Learning to create decentralized applications (dApps) and smart contracts.</li>
-    <li>🌟 **Data Science**: Delving deeper into predictive modeling, NLP, and AI-powered analytics.</li>
-    <li>🌟 **Cloud Computing**: Building scalable and distributed systems with platforms like AWS and Azure.</li>
-</ul>
+### 🚀 **Future Skills and Interests**
+- 🌟 **Cyber Security:** Penetration testing, cryptography, and threat analysis  
+- 🌟 **Blockchain Development:** Decentralized applications (dApps) and smart contracts  
+- 🌟 **Data Science:** Predictive modeling, NLP, and AI-powered analytics  
+- 🌟 **Cloud Computing:** Scalable systems with AWS and Azure  
 
 ---
 
-<h3 align="center">🕒 Time Zone:</h3>
-<p align="center">⏱️ My local time zone is: **Asia/Dhaka (GMT+6)**</p>
+### ⏱️ **Time Zone**
+<p align="center">
+  My local time zone is: **Asia/Dhaka (GMT+6)**  
+</p>
+
+---
+
+### 📬 **Contact**
+If you wish to collaborate or simply have a chat, feel free to reach out via the platforms above or email me directly. Let's innovate together! 🚀
