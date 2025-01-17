@@ -54,18 +54,24 @@
 
 ---
 
-<h3 align="left">📊 My GitHub Stats:</h3>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rocky-Dewan&show_icons=true&locale=en&layout=compact" alt="Rocky-Dewan" />
-</p>
-
+<h3 align="left">📊 My GitHub Language Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&locale=en" alt="Rocky-Dewan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
 
 ---
 
-<h3 align="center">✨ Quote of the Day:</h3>
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
-</p>
+<h3 align="left">🚀 Future Skills and Interests:</h3>
+<ul>
+    <li>🌟 **Cyber Security**: Exploring advanced topics like penetration testing, cryptography, and threat analysis.</li>
+    <li>🌟 **Blockchain Development**: Learning to create decentralized applications (dApps) and smart contracts.</li>
+    <li>🌟 **Data Science**: Delving deeper into predictive modeling, NLP, and AI-powered analytics.</li>
+    <li>🌟 **Cloud Computing**: Building scalable and distributed systems with platforms like AWS and Azure.</li>
+</ul>
+
+---
+
+<h3 align="left">🕒 Time Zone:</h3>
+<p align="left">⏱️ My local time zone is: **Asia/Dhaka (GMT+6)**</p>
