@@ -60,7 +60,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=Rocky-Dewan&theme=radical" alt="Rocky Dewan's Streak Stats" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
 </div>
 
 
