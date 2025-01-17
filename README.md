@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rocky Dewan</h1>
 <h3 align="center">A passionate Software Engineer and aspiring Cyber Security Specialist 🚀</h3>
 
----
-
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
-<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Coding GIF">
-
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Web Application Development.**  
-- 📫 How to reach me: **dewanrocky250@gmail.com**
+<div>
+  <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="Coding GIF">
+  <ul>
+    <li>🌱 I’m currently learning **Machine Learning, Deep Learning, and Web Application Development.**</li>
+    <li>📫 How to reach me: **dewanrocky250@gmail.com**</li>
+  </ul>
+</div>
 
 ---
 
@@ -57,9 +58,8 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=8&layout=compact&theme=radical" alt="Top Languages" />
-    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
+    <img src="https://streak-stats.demolab.com?user=Rocky-Dewan&theme=radical" alt="GitHub Streak Stats" />
 </div>
-
 
 ---
 
