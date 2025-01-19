@@ -62,7 +62,8 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="600" height="300"/></p>
 </div>
 
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 ---
 
