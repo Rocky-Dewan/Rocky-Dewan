@@ -55,12 +55,11 @@
 </p>
 
 ---
-
 ### 📊 **GitHub Stats**
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" alt="GitHub Stats" />
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=8&layout=compact&theme=radical)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=10&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
 </div>
 
 
