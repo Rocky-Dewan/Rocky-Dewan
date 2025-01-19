@@ -61,11 +61,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" width="400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" width="400" height="240" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="400" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="400" height="200" />
 </div>
 
 
