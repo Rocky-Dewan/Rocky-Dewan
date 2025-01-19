@@ -56,11 +56,18 @@
 
 ---
 ### 📊 **GitHub Stats**
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Rocky-Dewan&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=5&theme=tokyonight)]()
-<div align="right">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="400" height="180"/></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Rocky-Dewan&count_private=true&theme=tokyonight&show_icons=true" alt="My GitHub Stats" width="400" height="180" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=5&theme=tokyonight" alt="My GitHub Language Stats" width="400" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="400" height="180" />
+</div>
+
 
 
 
