@@ -57,10 +57,11 @@
 ---
 ### 📊 **GitHub Stats**
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=10&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Top Languages" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" /></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" width="600" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=10&layout=compact&theme=radical&hide=jupyter%20notebook&hide_border=true" alt="Top Languages" width="600" height="300"/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="600" height="300"/></p>
 </div>
+
 
 
 ---
