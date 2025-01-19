@@ -57,13 +57,11 @@
 ---
 ### 📊 **GitHub Stats**
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" width="600" height="250"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&langs_count=10&layout=compact&theme=radical&hide=jupyter%20notebook&hide_border=true" alt="Top Languages" width="600" height="300"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="600" height="300"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&" alt="Rocky-Dewan" width="600" height="300"/></p>
 </div>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ocky-Dewan&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ocky-Dewan&langs_count=5&theme=tokyonight)]()
 
 ---
 
