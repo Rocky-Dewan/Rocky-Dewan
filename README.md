@@ -95,21 +95,3 @@
 
 ### 📬 **Contact**
 If you wish to collaborate or simply have a chat, feel free to reach out via the platforms above or email me directly. Let's innovate together! 🚀
-
-### 🚀 **Future Skills and Interests**
-- 🌟 **Cyber Security:** Penetration testing, cryptography, and threat analysis  
-- 🌟 **Blockchain Development:** Decentralized applications (dApps) and smart contracts  
-- 🌟 **Data Science:** Predictive modeling, NLP, and AI-powered analytics  
-- 🌟 **Cloud Computing:** Scalable systems with AWS and Azure  
-
----
-
-### ⏱️ **Time Zone**
-<p align="center">
-  My local time zone is: **Asia/Dhaka (GMT+6)**  
-</p>
-
----
-
-### 📬 **Contact**
-If you wish to collaborate or simply have a chat, feel free to reach out via the platforms above or email me directly. Let's innovate together! 🚀
