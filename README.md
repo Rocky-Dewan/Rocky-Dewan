@@ -1,7 +1,7 @@
 
 ---
 <h1 align="center">👋 Hi, I'm Rocky Dewan</h1>
-<h3 align="center">Final-Year Computer Science Student | Aspiring Software Engineer & Cybersecurity Specialist | Tech Enthusiast 🚀</h3>
+<h3 align="center">Aspiring Software Engineer | Exploring Software & Web Development | Proficient in Machine Learning & Deep Learning 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
