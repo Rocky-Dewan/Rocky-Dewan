@@ -15,7 +15,7 @@
 
 - 🌱 **Currently Exploring:** Machine Learning, Deep Learning, and Web Application Development  
 - 📫 **Reach Me At:** dewanrocky250@gmail.com  
-- 💡 **Fun Fact:** I believe in lifelong learning and am fascinated by the intersection of technology and human behavior.  
+- 💡 **Fun Fact:** I believe in lifelong learning and I'm fascinated by the intersection of technology and human behavior.  
 
 ---
 
