@@ -78,9 +78,7 @@
 
 ---
 
-### 🚀 **Future Skills and Interests**
-- 🌟 **Cyber Security:** Penetration testing, cryptography, and threat analysis  
-- 🌟 **Blockchain Development:** Decentralized applications (dApps) and smart contracts  
+### 🚀 **Future Skills and Interests**  
 - 🌟 **Data Science:** Predictive modeling, NLP, and AI-powered analytics  
 - 🌟 **Cloud Computing:** Scalable systems with AWS and Azure  
 
