@@ -93,5 +93,6 @@ Here are some highlighted repositories recently updated or actively maintained:
 If you're interested in collaborating, building impactful tools, or just want to talk AI, feel free to reach out:
 
 - 📧 Email: **dewanrocky250@gmail.com**  
-- 🌐 Portfolio: [rocky-dewan.github.io]([http://rocky-dewan.github.io/-Rockyfolio/])  
+- 🌐 Portfolio: [My Portfolio](http://rocky-dewan.github.io/-Rockyfolio/)
+
 
