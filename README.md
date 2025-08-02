@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Rocky Dewan</h1>
-<h3 align="center">AI Developer | Software Engineer | ML Researcher | Automation Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | ML Researcher | Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,7 +12,7 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
 
-- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable Web Systems  
+- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable AI Systems  
 - 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
 - 📘 Passionate about turning research into real-world applications  
 - 💼 Open to collaborations, internships, and research opportunities  
@@ -33,7 +33,7 @@
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,html,css,tailwind,react,nextjs,nodejs,express,django,flask,mysql,sqlite,mongodb,git,github,linux,figma,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,html,css,tailwind,react,nextjs,nodejs,typescript,express,flask,mysql,mongodb,git,github,figma,vscode" />
 </p>
 
 ---
@@ -93,5 +93,5 @@ Here are some highlighted repositories recently updated or actively maintained:
 If you're interested in collaborating, building impactful tools, or just want to talk AI, feel free to reach out:
 
 - 📧 Email: **dewanrocky250@gmail.com**  
-- 🌐 Portfolio: [rocky-dewan.github.io]([https://rocky-dewan.github.io](http://rocky-dewan.github.io/-Rockyfolio/))  
+- 🌐 Portfolio: [rocky-dewan.github.io]([http://rocky-dewan.github.io/-Rockyfolio/])  
 
