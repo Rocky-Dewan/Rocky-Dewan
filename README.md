@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Rocky Dewan</h1>
+<h1 align="center">Hey there, I'm Rocky Dewan 🚀</h1>
 <h3 align="center">AI Developer | Software Engineer | ML Researcher | Automation Enthusiast</h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif">
 
-- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable Web Systems
-- 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems
-- 📘 Passionate about turning research into real-world applications
-- 💼 Open to collaborations, internships, and research opportunities
+- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable Web Systems  
+- 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
+- 📘 Passionate about turning research into real-world applications  
+- 💼 Open to collaborations, internships, and research opportunities  
 - 📫 Reach me at: **dewanrocky250@gmail.com**
 
 ---
@@ -44,35 +44,30 @@
 
 Here are some highlighted repositories recently updated or actively maintained:
 
-- 🔗 [Lead Qualifier with Airtable Integration](https://github.com/Rocky-Dewan/Lead-Qualifier-with-Airtable-integration): NLP pipeline that classifies and extracts lead info from unstructured text and integrates with Airtable.
-- 🧠 [HMS Harmful Brain Activity Classification](https://github.com/Rocky-Dewan/HMS-Brain-Activity-Classification): Competition-ready EEG data classification using deep learning.
-- 🐦 [Bird Species Classifier](https://github.com/Rocky-Dewan/Bird-Species-Classification): Transfer Learning with EfficientNetB3 and ResNet152V2 for multi-class bird recognition.
+- 🔗 [Lead Qualifier with Airtable Integration](https://github.com/Rocky-Dewan/Lead-Qualifier-with-Airtable-integration)  
+  NLP pipeline that classifies and extracts lead info from unstructured text and integrates with Airtable.
 
-> 🔄 **Auto-updating repo list:** Consider integrating [GitHub Readme Stats Action](https://github.com/marketplace/actions/github-profile-readme-generator) or manually update weekly.
+- 🧠 [Assistant using RAG with Cohere API](https://github.com/Rocky-Dewan/Assistant-using-RAG-with-Cohere-API)  
+  Lightweight assistant combining Cohere's language API and Retrieval-Augmented Generation techniques.
+
+- 🌆 [City Pulse](https://github.com/Rocky-Dewan/City-Pulse)  
+  Real-time data dashboard and visualizations for urban metrics using open APIs and ML.
+
+> 🔄 *To automate this section, use GitHub GraphQL API or a GitHub Action that updates project list based on activity.*
 
 ---
 
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" alt="GitHub stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rocky-Dewan&theme=radical" alt="GitHub streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rocky-Dewan&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
 
-### 🎯 Professional Goals & Directions
-
-- 🌍 Building real-world AI agents using LLMs, RAG, and vector databases
-- 🧠 Deepening knowledge in model optimization, interpretability, and deployment
-- ☁️ Gaining mastery over scalable cloud systems: AWS, GCP, Docker, and CI/CD pipelines
-- 🧩 Architecting end-to-end ML/NLP pipelines that work in production
-- ✨ Research meets development — always iterating towards innovation
-
----
-
-### 🗓️ Activity Calendar
+### 🗓️ Contribution Calendar
 
 <p align="center">
   <img src="https://github.com/Rocky-Dewan/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
@@ -80,9 +75,49 @@ Here are some highlighted repositories recently updated or actively maintained:
 
 ---
 
-### 📌 Pinned Repositories (Dynamic)
+### 🎯 Professional Goals & Roadmap
 
-Use this dynamic section to keep your latest projects always pinned. Update manually or with GitHub Actions:
+- 🌍 Building real-world AI agents using LLMs, RAG, and vector databases  
+- 🧠 Model Optimization & Interpretability — deep learning that makes sense  
+- ☁️ Cloud-Native Development (AWS, GCP, Azure, Docker, CI/CD)  
+- 🧩 End-to-end NLP & MLOps Pipelines — from experiment to production  
+- 🤖 Research + Engineering = 🔥 Next-gen AI Applications
 
-```bash
-# example script using GitHub GraphQL to auto-pin repos based on recent updates
+---
+
+### 🌱 Currently Learning
+
+- 🔍 **Advanced NLP**: Named Entity Linking, Semantic Search, RAG  
+- ⚙️ **AI System Design**: Retrieval pipelines, caching, vector search  
+- 📊 **DataOps & MLOps**: MLflow, Airflow, BentoML  
+- 🛠️ **Backend Infra**: Microservices, Docker, Pub/Sub architectures  
+
+---
+
+### 📌 Pinned Repositories (Manual/Dynamic Option)
+
+> You can set this section to update automatically with GitHub Actions, or update manually:
+
+- Pin latest/favorite repositories via your [GitHub Profile > Customize your pins](https://github.com/Rocky-Dewan?tab=overview&from=2025-01-01&to=2025-12-31)
+
+---
+
+### 🕰️ Time Zone
+
+<p align="center">⏱️ My local time zone is: <b>Asia/Dhaka (GMT+6)</b></p>
+
+---
+
+### 📬 Contact
+
+If you're interested in collaborating, building impactful tools, or just want to talk AI, feel free to reach out:
+
+- 📧 Email: **dewanrocky250@gmail.com**  
+- 🌐 Portfolio: [rocky-dewan.github.io](https://rocky-dewan.github.io)  
+- 🧠 Blog: *(Coming soon)* — Sharing notes, experiments, and tutorials  
+
+---
+
+<p align="center">
+  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
+</p>
