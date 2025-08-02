@@ -3,16 +3,14 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Rocky-Dewan?label=GitHub&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/twitter/follow/dewan_rocky250?style=social" alt="Twitter followers" />
-  <img src="https://badgen.net/badge/Total%20Contributions/370/blue?icon=github" alt="total contributions badge" />
+
 </p>
 
 ---
 
 ### 🧠 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
+<img align="right" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
 
 - 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable Web Systems  
 - 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
@@ -108,8 +106,3 @@ If you're interested in collaborating, building impactful tools, or just want to
 - 📧 Email: **dewanrocky250@gmail.com**  
 - 🌐 Portfolio: [rocky-dewan.github.io](https://rocky-dewan.github.io)  
 
----
-
-<p align="center">
-  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
-</p>
