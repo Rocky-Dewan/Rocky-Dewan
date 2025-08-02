@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-<img align="right" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
+<img align="right" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
 
 - 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable Web Systems  
 - 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/rockydewan250/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/dewan_rocky250"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="https://instagram.com/rock_._y"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://facebook.com/Dewan.Rocky.250.oil.of.vitriol"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
 </p>
 
 ---
@@ -52,27 +51,17 @@ Here are some highlighted repositories recently updated or actively maintained:
 - 🌆 [City Pulse](https://github.com/Rocky-Dewan/City-Pulse)  
   Real-time data dashboard and visualizations for urban metrics using open APIs and ML.
 
-> 🔄 *To automate this section, use GitHub GraphQL API or a GitHub Action that updates this list based on latest commit or push activity.*
 
 ---
 
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rocky-Dewan&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=radical" width="400" />
 </p>
 
 ---
 
-### 📊 Contribution Calendar
-
-<p align="center">
-  <img src="https://github.com/Rocky-Dewan/github-contribution-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
-
----
 
 ### 🎯 Professional Goals & Roadmap
 
@@ -104,5 +93,5 @@ Here are some highlighted repositories recently updated or actively maintained:
 If you're interested in collaborating, building impactful tools, or just want to talk AI, feel free to reach out:
 
 - 📧 Email: **dewanrocky250@gmail.com**  
-- 🌐 Portfolio: [rocky-dewan.github.io](https://rocky-dewan.github.io)  
+- 🌐 Portfolio: [rocky-dewan.github.io]([https://rocky-dewan.github.io](http://rocky-dewan.github.io/-Rockyfolio/))  
 
