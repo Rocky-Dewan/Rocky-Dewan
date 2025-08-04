@@ -56,10 +56,7 @@ Here are some highlighted repositories recently updated or actively maintained:
 
 ### 📈 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=radical" width="400" />
-</p>
-
+<p align="center"> <a href="https://github.com/Rocky-Dewan"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=radical" width="400" alt="Top Languages" /> </a> <br /> <a href="https://github.com/Rocky-Dewan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl" alt="GitHub Streak" /> </a> <br /> <a href="https://profile-summary-for-github.com/user/Rocky-Dewan"> <img src="https://img.shields.io/badge/Rocky--Dewan-151515?style=for-the-badge&logo=github&logoColor=79740e" alt="Profile Summary" /> </a> </p>
 ---
 
 
