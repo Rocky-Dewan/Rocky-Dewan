@@ -30,12 +30,23 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,html,css,tailwind,react,nextjs,nodejs,typescript,express,flask,mysql,mongodb,git,github,figma,vscode" />
-</p>
-
+🧰 Tech Stack & Tools
+🌐 Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
+🔧 Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,php,flask" /> </p>
+🧱 Frameworks & Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask" /> </p>
+🎨 UI / UX
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+💾 Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
+⚙️ DevOps & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+☁️ Cloud & Deployment
+<p align="center"> <img src="https://skillicons.dev/icons?i=vercel" /> </p>
+👨‍💻 Programming Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp" /> </p>
 ---
 
 ### 🚀 Featured Projects
