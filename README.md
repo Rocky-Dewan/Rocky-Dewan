@@ -30,7 +30,7 @@
 
 ---
 
-🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Tools
 🌐 Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
 🔧 Backend
@@ -47,6 +47,7 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=vercel" /> </p>
 👨‍💻 Programming Languages
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp" /> </p>
+
 ---
 
 ### 🚀 Featured Projects
