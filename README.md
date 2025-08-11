@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
 
 - 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable AI Systems  
 - 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
