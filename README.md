@@ -30,23 +30,35 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+🧰 Tech Stack & Tools
+
 🌐 Frontend
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js </p>
+
 🔧 Backend
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,php,flask" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" /> Express &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=php" /> PHP &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flask" /> Flask </p>
+
 🧱 Frameworks & Libraries
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" /> Express &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flask" /> Flask </p>
+
 🎨 UI / UX
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=figma" /> Figma </p>
+
 💾 Databases
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB </p>
+
 ⚙️ DevOps & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-☁️ Cloud & Deployment
-<p align="center"> <img src="https://skillicons.dev/icons?i=vercel" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode" /> VS Code </p>
+
 👨‍💻 Programming Languages
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp" /> </p>
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cpp" /> C++ </p>
 
 ---
 
