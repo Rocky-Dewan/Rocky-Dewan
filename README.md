@@ -72,6 +72,10 @@ Here are some highlighted repositories recently updated or actively maintained:
 - 🧠 [Assistant using RAG with Cohere API](https://github.com/Rocky-Dewan/Assistant-using-RAG-with-Cohere-API)  
   Lightweight assistant combining Cohere's language API and Retrieval-Augmented Generation techniques.
 
+- 🤖 [Rockbot - AI Assistant](https://github.com/Rocky-Dewan/Rockbot-AI-Assistant)
+  Rockbot Assistant is a web-based AI chatbot platform for conversation management, supporting real-time chat, PDF/text export, and agent selection.
+
+
 - 🌆 [City Pulse](https://github.com/Rocky-Dewan/City-Pulse)  
   Real-time data dashboard and visualizations for urban metrics using open APIs and ML.
 
