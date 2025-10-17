@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Rocky Dewan</h1>
-<h3 align="center">AI/ML Engineer | Software Engineer | ML Researcher | Automation Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Software Engineer | Researcher </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,10 +12,9 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
 
-- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable AI Systems  
+- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable AI Systems for real-life problem solving
 - 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
-- 📘 Passionate about turning research into real-world applications  
-- 💼 Open to collaborations, internships, and research opportunities  
+- 📘 Passionate about turning research into real-world applications
 - 📫 Reach me at: **dewanrocky250@gmail.com**
 
 ---
@@ -66,18 +65,22 @@
 
 Here are some highlighted repositories recently updated or actively maintained:
 
-- 🔗 [Lead Qualifier with Airtable Integration](https://github.com/Rocky-Dewan/Lead-Qualifier-with-Airtable-integration)  
-  NLP pipeline that classifies and extracts lead info from unstructured text and integrates with Airtable.
 
-- 🧠 [Assistant using RAG with Cohere API](https://github.com/Rocky-Dewan/Assistant-using-RAG-with-Cohere-API)  
-  Lightweight assistant combining Cohere's language API and Retrieval-Augmented Generation techniques.
 
 - 🤖 [Rockbot - AI Assistant](https://github.com/Rocky-Dewan/Rockbot-AI-Assistant)
-  Rockbot Assistant is a web-based AI chatbot platform for conversation management, supporting real-time chat, PDF/text export, and agent selection.
+  RockBot-AI is a web-based AI assistant built for autonomous task execution and complex multi-turn interactions. It features a Multi-Agent Architecture with specialized agents (General, Translator, Creative Writer, Problem Solver, Task Executor) for diverse workflows such as Q&A, creative writing, and task planning.
+The platform supports multi-modal input (image, PDF, DOC upload and analysis via OpenAI Vision API) and adaptive context retention for long conversations.
+A modern React-based UI ensures smooth, real-time chat, with features like conversation saving, sharing, and exporting to PDF, DOC, and text files.
 
 
 - 🌆 [City Pulse](https://github.com/Rocky-Dewan/City-Pulse)  
-  Real-time data dashboard and visualizations for urban metrics using open APIs and ML.
+  CityPulse is a full-stack urban issue reporting platform that empowers citizens to report real-world city problems like potholes, broken streetlights, and garbage dumps directly from their location.
+It integrates real-time geolocation tracking, image uploads, and data visualization dashboards, enabling municipalities to efficiently monitor and respond to public issues.
+
+- 🧠 [AI Hiring Suite](https://github.com/Rocky-Dewan/Rockbot-AI-Assistant)
+  The AI Hiring Suite is a full-stack, AI-driven recruitment automation platform offering end-to-end candidate management, real-time interviews, calendar scheduling, and automated assessments.
+It incorporates fairness checks, AI-led evaluation, and a modern DevOps-ready architecture, creating an intelligent, scalable solution for the hiring process.
+
 
 
 ---
@@ -85,20 +88,20 @@ Here are some highlighted repositories recently updated or actively maintained:
 
 ### 🎯 Professional Goals & Roadmap
 
-- 🌍 Building real-world AI agents using LLMs, RAG, and vector databases  
-- 🧠 Model Optimization & Interpretability — deep learning that makes sense  
-- ☁️ Cloud-Native Development (AWS, GCP, Azure, Docker, CI/CD)  
-- 🧩 End-to-end NLP & MLOps Pipelines — from experiment to production  
-- 🤖 Research + Engineering = 🔥 Next-gen AI Applications
+- 🌍 Build intelligent AI assistants that solve real-world problems, combining LLMs, RAG, and vector search
+- 🧠 Create explainable AI models that not only perform well but are understandable and actionable 
+- ☁️ Design cloud-native systems with Docker, CI/CD, and modern cloud platforms for scalable deployments
+- 🧩 End-to-end NLP & MLOps pipelines — from prototyping and experimentation to production-ready solutions
+- 🤖 Innovate at the intersection of research and engineering, developing AI tools like RockBot-AI and CityPulse
 
 ---
 
 ### 🌱 Currently Learning
 
-- 🔍 **Advanced NLP**: Named Entity Linking, Semantic Search, RAG  
-- ⚙️ **AI System Design**: Retrieval pipelines, caching, vector search  
-- 📊 **DataOps & MLOps**: MLflow, Airflow, BentoML  
-- 🛠️ **Backend Infra**: Microservices, Docker, Pub/Sub architectures  
+- 🔍 Next-level NLP & Semantic AI — context-aware retrieval, multi-agent reasoning, and entity linking
+- ⚙️ AI architecture & system design — building efficient pipelines, caching, and vector-based search
+- 📊 Practical MLOps & DataOps — MLflow, Airflow, model monitoring, and version control
+- 🛠️ Modern backend infrastructure — microservices, event-driven APIs, scalable cloud deployments 
 
 ---
 
