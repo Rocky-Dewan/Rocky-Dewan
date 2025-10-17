@@ -77,7 +77,7 @@ A modern React-based UI ensures smooth, real-time chat, with features like conve
   CityPulse is a full-stack urban issue reporting platform that empowers citizens to report real-world city problems like potholes, broken streetlights, and garbage dumps directly from their location.
 It integrates real-time geolocation tracking, image uploads, and data visualization dashboards, enabling municipalities to efficiently monitor and respond to public issues.
 
-- 🧠 [AI Hiring Suite](https://github.com/Rocky-Dewan/Rockbot-AI-Assistant)
+- 🧠 [AI Hiring Suite](https://github.com/Rocky-Dewan/ai-hiring-suite)
   The AI Hiring Suite is a full-stack, AI-driven recruitment automation platform offering end-to-end candidate management, real-time interviews, calendar scheduling, and automated assessments.
 It incorporates fairness checks, AI-led evaluation, and a modern DevOps-ready architecture, creating an intelligent, scalable solution for the hiring process.
 
