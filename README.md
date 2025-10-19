@@ -33,7 +33,7 @@
 
 🌐 Frontend
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; </p>
 
 🔧 Backend
 
@@ -41,7 +41,7 @@
 
 🧱 Frameworks & Libraries
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nextjs" /> Next.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" /> Express &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flask" /> Flask </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;  <img src="https://skillicons.dev/icons?i=express" /> Express &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=flask" /> Flask </p>
 
 🎨 UI / UX
 
@@ -49,7 +49,7 @@
 
 💾 Databases
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB <img src="htttps://skillicons?i=firebase" /> Firebase </p>
 
 ⚙️ DevOps & Tools
 
