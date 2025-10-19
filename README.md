@@ -81,6 +81,9 @@ It integrates real-time geolocation tracking, image uploads, and data visualizat
   The AI Hiring Suite is a full-stack, AI-driven recruitment automation platform offering end-to-end candidate management, real-time interviews, calendar scheduling, and automated assessments.
 It incorporates fairness checks, AI-led evaluation, and a modern DevOps-ready architecture, creating an intelligent, scalable solution for the hiring process.
 
+- 🚚 [SwiftDrop](https://github.com/Rocky-Dewan/SwiftDrop)
+  SwiftDrop is a full-stack delivery platform for Bangladesh that allows customers to order vegetables, groceries, and daily essentials via a mobile app, while admins manage products and orders through a web dashboard, and delivery agents track and fulfill orders in real-time.
+
 
 
 ---
