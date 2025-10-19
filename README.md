@@ -49,7 +49,7 @@
 
 💾 Databases
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp; <img src="htttps://skillicons.dev/icons?i=firebase" /> Firebase </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" /> Firebase </p>
 
 ⚙️ DevOps & Tools
 
