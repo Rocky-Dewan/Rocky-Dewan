@@ -1,6 +1,12 @@
 <h1 align="center">Hey there, I'm Rocky Dewan</h1>
 <h3 align="center">AI/ML Engineer | Software Engineer | Researcher </h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tmilost/tmilost/blob/main/warmth.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tmilost/tmilost/blob/main/donut.gif">
+  <img alt="Shows an irabb-paper in light mode and a warmth in dark mode." src="https://github.com/tmilost/tmilost/blob/main/warmth.gif">
+</picture>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocky-Dewan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
