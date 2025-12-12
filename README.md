@@ -73,8 +73,6 @@ If you're interested in collaborating, building impactful tools, or just want to
 ---
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=7200"/>
