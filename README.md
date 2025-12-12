@@ -1,4 +1,3 @@
-demolab.com
 <h1 align="center">Hey there, I'm Rocky Dewan</h1>
 <h3 align="center">AI/ML Engineer | Software Engineer | Researcher </h3>
 
@@ -72,37 +71,7 @@ If you're interested in collaborating, building impactful tools, or just want to
 - 🌐 Portfolio: [My Portfolio](http://rocky-dewan.github.io/-Rockyfolio/)
 
 ---
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- Main stats card (github-readme-stats) -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" alt="Rocky-Dewan's GitHub stats"/>
-
-<!-- Streak / contributions -->
-<img height="160" src="https://streak-stats.demolab.com/?user=Rocky-Dewan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e76" alt="GitHub streak stats"/>
-
-</div>
-
-<div align="center">
-
-<!-- Top languages -->
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" alt="Top languages"/>
-
-<!-- Trophies (visual summary) -->
-<img height="140" src="https://github-profile-trophy.vercel.app/?username=Rocky-Dewan&theme=tokyonight&margin-w=5&margin-h=5" alt="GitHub trophies"/>
-
-</div>
-
-<div align="center">
-
-<!-- Stable numeric badges (fallbacks) -->
-<img src="https://img.shields.io/github/followers/Rocky-Dewan?label=Followers&style=flat&logo=github" alt="Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/repo-size/Rocky-Dewan?label=Repo%20size&style=flat&logo=github" alt="Repo size"/>
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/Rocky-Dewan?label=Last%20commit&style=flat&logo=github" alt="Last commit"/>
-
-</div>
-
+## 📊 GitHub Statistics 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e76&currStreakLabel=c9d1d9"/> </div> 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocky-Dewan&theme=tokyonight&utcOffset=-6"/> </div>
 ---
