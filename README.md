@@ -14,18 +14,18 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" alt="coding gif" />
 
-- 🔍 Currently exploring AI-Powered Automation, ML Pipelines, and Scalable AI Systems for real-life problem solving
-- 🔨 Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
-- 📘 Passionate about turning research into real-world applications
-- 📫 Reach me at: **dewanrocky250@gmail.com**
+-  Currently exploring AI-Intregated Software Application, ML Pipelines, and Scalable AI Systems for real-life problem solving
+-  Always building something at the intersection of Deep Learning, LLMs, and Software Systems  
+-  Passionate about turning research into real-world applications
+-  Reach me at: **dewanrocky250@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center"> 
   <a href="https://codeforces.com/profile/Rock_._y">
@@ -47,45 +47,54 @@
 
 ---
 
-🧰 Tech Stack & Tools
+ Tech Stack & Tools
 
-🌐 Frontend
+ Frontend
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html" /> HTML &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" /> CSS &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=tailwind" /> Tailwind &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=js" /> JavaScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ts" /> TypeScript &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp; </p>
 
-🔧 Backend
+ Backend
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs" /> Node.js &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=express" /> Express </p>
 
-🧱 Frameworks & Libraries
+ Frameworks & Libraries
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=react" /> React &nbsp;&nbsp;  <img src="https://skillicons.dev/icons?i=express" /> Express </p>
 
 
-💾 Databases
+ Databases
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql" /> MySQL &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" /> Firebase </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb" /> MongoDB &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" /> Firebase &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=postgresql" /> PostgreSQL </p>
 
-⚙️ DevOps & Tools
+ DevOps & Tools
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git" /> Git &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=github" /> GitHub &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode" /> VS Code </p>
 
-👨‍💻 Programming Languages
+ Programming Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=java" /> Java &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cpp" /> C++ </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=cpp" /> C++ </p>
 
 
-### 📬 Contact
+###  Contact
 
 If you're interested in collaborating, building impactful tools, or just want to talk AI, feel free to reach out:
 
-- 📧 Email: **dewanrocky250@gmail.com**  
-- 🌐 Portfolio: [My Portfolio](http://rocky-dewan.github.io/-Rockyfolio/)
+-  Email: **dewanrocky250@gmail.com**  
+-  Portfolio: [My Portfolio](http://rocky-dewan.github.io/-Rockyfolio/)
 
 ---
 
-## 📊 GitHub Statistics 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e76&currStreakLabel=c9d1d9"/> </div> 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocky-Dewan&theme=tokyonight&utcOffset=-6"/> </div>
+##  GitHub Statistics 
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rocky-Dewan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=1800"/> 
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rocky-Dewan&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e76&currStreakLabel=c9d1d9&cache_seconds=1800"/> 
+</div> 
+
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-Dewan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/> 
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rocky-Dewan&theme=tokyonight&utcOffset=6"/> 
+</div>
 
 ---
