@@ -80,7 +80,7 @@
 If you're interested in collaborating, building impactful tools, or just want to talk AI, feel free to reach out:
 
 -  Email: **dewanrocky250@gmail.com**  
--  Portfolio: [My Portfolio](http://rocky-dewan.github.io/-Rockyfolio/)
+-  Portfolio: [My Portfolio](https://rocky-folio.vercel.app/)
 
 ---
 
